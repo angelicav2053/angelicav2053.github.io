@@ -236,7 +236,7 @@ position: absolute;
 }
 /*Button 1*/
 .container {
-  position: absolute;
+  position: relative;
   width: 50%;
 }
 
