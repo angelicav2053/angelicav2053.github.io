@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<link  rel = "stylesheet" href = "types.css">
+<link href="https://fonts.googleapis.com/css?family=Merienda" rel="stylesheet">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+</head>
+<body>
+
+<h2>Safe Sex is Educated Sex</h2>
+<a class= "chicken" href="mailto:informationstdgwc@gmail.com"> Contact Us</a>
+
+
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">Learn More</button>
+  <div id="myDropdown" class="dropdown-content">
+      <a rel="home" href ="std.html">Home</a>
+    <a rel="Overview" href="overview.html">Overview</a>
+    <a rel="STDs" href="stds.html">STDs</a>
+    <a rel="protect" href="protect.html">Protection</a>
+    <a href="https://gettested.cdc.gov"> Get Tested</a>
+    <a rel= "sources" href = "sources.html">All About Us</a>
+
+  </div>
+</div>
+
+<h1> Safe Sex is Educated Sex </h1>
+<img src="logo.png" alt"Logo" width="100" length="100" class="center"></img>
+<h4><center> It is our mission to efficiently streamline user-friendly information on STD's and STD prevention such that we may continue to fight the rise in the life-threatening diseases. </center></h4>
+<img src="squad.jpg" class="together" width="500" length="500"> </img>
+<script>
+
+/* When the user clicks on the button,
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</body>
+</html>
