@@ -234,3 +234,432 @@ position: absolute;
 
 .show {display: block;
 }
+/*Button 1*/
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container {
+  width: 300;
+  height: 400;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 9%;
+  /*move left and right, lesser number the futher left*/
+  left: 10%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-20%, -25%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 83px 100px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+/*Button 2*/
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container {
+  width: 500;
+  height: 600;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .push {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 53.25%;
+  /*move left and right, lesser number the futher left*/
+  left: 15%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-20%, -25%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 158px 202px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .push:hover {
+  background-color: black;
+}
+/*Button 1*/
+.container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, -5%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 130px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+/*Button 2*/
+.container2 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container2 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container2 .push {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 0%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 130px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container2 .push:hover {
+  background-color: black;
+}
+/*Button 3*/
+.container3 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container3 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container3 .booty {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 0%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 120px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container3 .booty:hover {
+  background-color: black;
+}
+/*Button 4*/
+.container4 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container4 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container4 .wowie {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 0%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 130px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container4 .wowie:hover {
+  background-color: black;
+}
+/*Button 5*/
+.container5 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container5 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container5 .lily {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 0%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 130px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container5 .lily:hover {
+  background-color: black;
+}
+/*Button 6*/
+.container6 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container6 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container6 .tiger {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 0%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 130px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container6 .tiger:hover {
+  background-color: black;
+}
+/*Button 7*/
+.container7 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container7 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container7 .thot {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 3%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 132px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container7 .thot:hover {
+  background-color: black;
+}
+/*Button 8*/
+.container8 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container8 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container8 .hoe {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 3%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 133px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container8 .hoe:hover {
+  background-color: black;
+}
+/*Button 9*/
+.container9 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container9 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container9 .scott {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 2%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 134px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container9 .scott:hover {
+  background-color: black;
+}
+
+/*Button 10*/
+.container10 {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container10 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container10 .jenny {
+  position: absolute;
+  /*moves up and down lesser the number the further up*/
+  top: 50%;
+  /*move left and right, lesser number the futher left*/
+  left: 75%;
+  /*first number is same as left second number same as top*/
+  transform: translate(-25%, 2%);
+  /*idk just dont mess with it*/
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  /*size of button by pixel height by width*/
+  padding: 175px 180px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
