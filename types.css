@@ -242,8 +242,8 @@ position: absolute;
 
 /* Make the image responsive */
 .container {
-  width: 300;
-  height: 400;
+  width: 100%;
+  height: autp;
 }
 
 /* Style the button and place it in the middle of the container/image */
