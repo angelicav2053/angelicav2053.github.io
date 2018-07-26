@@ -254,7 +254,7 @@ position: absolute;
   /*move left and right, lesser number the futher left*/
   left: 5%;
   /*first number is same as left second number same as top*/
-  transform: translate(-20%, -25%);
+  transform: translate(-25%, -25%);
   /*idk just dont mess with it*/
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
