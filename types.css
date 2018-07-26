@@ -252,7 +252,7 @@ position: absolute;
   /*moves up and down lesser the number the further up*/
   top: 9%;
   /*move left and right, lesser number the futher left*/
-  left: 10%;
+  left: 5%;
   /*first number is same as left second number same as top*/
   transform: translate(-20%, -25%);
   /*idk just dont mess with it*/
